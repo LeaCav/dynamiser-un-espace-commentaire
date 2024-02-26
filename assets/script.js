@@ -1,5 +1,9 @@
 
-    //get data
+   //Afin de rendre le code html plus lisible il pourrait être intéressant de créer une sfc <style>
+
+   
+   
+   //get data
     let firstNameInput = document.getElementById("first-name");
     let lastNameInput = document.getElementById("last-name");
     let messageTextarea = document.getElementById("message");
